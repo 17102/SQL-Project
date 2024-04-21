@@ -1,5 +1,5 @@
 # SQL-Project
-Retrieve the Patient_id and ages of all patients.
+1. Retrieve the Patient_id and ages of all patients.
 2. Select all female patients who are older than 40.
 3. Calculate the average BMI of patients.
 4. List patients in descending order of blood glucose levels.
@@ -14,4 +14,4 @@ HbA1clevel.
 12. Update the smoking history of patients who are older than 50 to "Ex-smoker."
 13. Insert a new patient into the database with sample data.
 14. Delete all patients with heart disease from the database.
-15. Find patients who have hypertension but not diabetes using the EXCEPT operator
+15. Find patients who have hypertension but not diabetes using the EXCEPT operator.
